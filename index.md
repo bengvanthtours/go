@@ -21,8 +21,9 @@ Några citat från tidigare resor:
 
 ## Lär dig mer
 
--[Varför resa med oss](rad.md)
+-[Vad bör man ta med sig på alla resor](reserad.md)
 
--[Vanliga frågor](faq.md)
+-[Vanligt förekommande frågor](faq.md)
 
--[Faktoider och Värdelöst vetande](faktoid.md)
+-[Faktoider, lägner och annat trams](faktoid.md)
+
