@@ -5,25 +5,25 @@ title: Hem
 # Bengvanth Tours
 
 Bengvanth Tours är den mest legandariska, mytiska och högst fikiva pop-up resebyrå du aldrig någonsin har hört talas om. 
-Och det är menat så. Det är en resebyrå som erbjuder exklusiva resor till exklusiva kunder. Man bokar inte resor med oss, man blir inbjuden. 
-Uttrycket, ring inte oss, vi ringer dig har väl aldrig passat så bra som nu. 
+Och det är menat så. Det är en resebyrå som erbjuder exklusiva resor till exklusiva och en aning illusiva kunder. Man bokar inte resor med oss, man blir inbjuden. 
+"Ring inte oss, vi ringer dig" har väl aldrig varit mer sant. Vårt motto - "Resebyrån som tar semester" - inbjuder till funderingar och ånger. Finns de eller finns de inte? Ja, det är frågan.
 
-Våra resor tar sig in under ditt skinn, den skakar om allt det där du trodde var sant, du famlar efter en verklighet som kanske inte finns. 
-Men det allra viktigaste är att våra resor är jäkligt kul.
+Våra resor tar sig in under ditt skinn, de skakar om allt det där du trodde var verkligt, du famlar efter rim och reson som kanske inte finns där. 
+Men det allra viktigaste - våra resor är jäkligt kul.
 
-Några citat från tidigare resor:
+Några citat från tidigare lyckade resor:
 
-* "Vi såg inte vår guide på hela veckan. Fantastiskt!"
+* "Vi såg inte vår reseguide på hela veckan. Fantastiskt!"
 * "Vi trodde inte att vi skulle ha råd med en sådan exklusiv resa, och det visade sig vara sant."
-* "Resan blandade dikt med verklighet som vi inte trodde det var sant. Det visade sig dock att vi hade blivit drogade."
+* "Resan blandade dikt med fiktion på ett sätt som vi inte trodde var möjligt. Efteråt berättade doktorn att det berodde på att vi fått malaria."
+* "Maten var för konstig, stranden för sandig, människorna för underliga, och vi blev rånade två gånger"
 * "Vi kom, vi såg, vi segrade!"
 
 
 ## Lär dig mer
 
--[Vad bör man ta med sig på alla resor](reserad.md)
+* [Vad bör man ta med sig på alla resor](reserad.md)
 
--[Vanligt förekommande frågor](faq.md)
+* [Vanligt förekommande frågor](faq.md)
 
--[Faktoider, lägner och annat trams](faktoid.md)
-
+* [Faktoider, lägner och annat trams](faktoid.md)
