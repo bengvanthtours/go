@@ -1,9 +1,9 @@
 ---
 title: Att resa är som att åka bort
 ---
+![LogoNice](Bengvanthtours.png)
 
 # Bengvanth Tours
-![LogoNice](Bengvanthtours.png)
 
 Bengvanth Tours är den mest legandariska, mytomspunna och högst fiktiva pop-up resebyrå du aldrig någonsin har hört talas om. 
 Och det är menat så. Det är en resebyrå som erbjuder exklusiva resor till exklusiva och en aning illusiva kunder. Man bokar inte resor med oss, man blir inbjuden. 
