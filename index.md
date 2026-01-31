@@ -1,14 +1,14 @@
 ---
-title: Hem
+title: Att resa är som att åka bort
 ---
 
 # Bengvanth Tours
 
-Bengvanth Tours är den mest legandariska, mytiska och högst fikiva pop-up resebyrå du aldrig någonsin har hört talas om. 
+Bengvanth Tours är den mest legandariska, mytomspunna och högst fiktiva pop-up resebyrå du aldrig någonsin har hört talas om. 
 Och det är menat så. Det är en resebyrå som erbjuder exklusiva resor till exklusiva och en aning illusiva kunder. Man bokar inte resor med oss, man blir inbjuden. 
-"Ring inte oss, vi ringer dig" har väl aldrig varit mer sant. Vårt motto - "Resebyrån som tar semester" - inbjuder till funderingar och ånger. Finns de eller finns de inte? Ja, det är frågan.
+"Ring inte oss, vi ringer dig" har väl aldrig passat bättre. Vårt motto - "Resebyrån som tar semester" - inbjuder till funderingar och ånger. Finns de eller finns de inte? Ja, det är frågan.
 
-Våra resor tar sig in under ditt skinn, de skakar om allt det där du trodde var verkligt, du famlar efter rim och reson som kanske inte finns där. 
+Våra resor tar sig in under skinnet, de skakar om allt det där du trodde var verkligt, du famlar efter rim och reson som kanske inte finns där. 
 Men det allra viktigaste - våra resor är jäkligt kul.
 
 Några citat från tidigare lyckade resor:
